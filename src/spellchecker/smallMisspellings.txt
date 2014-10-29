@@ -1,0 +1,10 @@
+lyon,lion
+lyon,long
+lyon,lie
+lyon,lie
+lyon,lie
+chimpanze,chimpanzee
+gose,goose
+Tigger,tiger
+tigger,TRIGGER
+tigger,TRIGGER
